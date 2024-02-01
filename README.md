@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to [Muhammad Kashif Nabeel]'s GitHub Repository! 🚀
+# Welcome to Muhammad Kashif Nabeel's GitHub Repository! 🚀
 
 <div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/raw/main/assets/welcome.gif" alt="Welcome Animated Message">
+  <img src="https://github.com/Kashif-CS6/Kashif-CS6/raw/main/assets/welcome.gif" alt="Welcome Animated Message">
 </div>
 
 ## 🌟 About Me
