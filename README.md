@@ -28,9 +28,9 @@ Hello there! I'm Muhammad Kashif Nabeel, a passionate Software Engineer with a l
 
 Here are some of the notable projects I've worked on:
 
-1. [Project 1](link-to-project1): Brief description of project 1.
-2. [Project 2](link-to-project2): Brief description of project 2.
-3. [Project 3](link-to-project3): Brief description of project 3.
+1. [Project 1]( https://todo-full-stack-application-mu.vercel.app/): TodoList full stack project using React, Redux toolkit and Firebase.
+2. [Project 2]([link-to-project2](https://remember-well-website.vercel.app/)): This is a simple frontend project using Nextjs and Tailwind css.
+3. [Project 3]([link-to-project3](https://university-lms-beige.vercel.app/)): Skill learnify is University LMS system build by using Nextjs and Tailwindcss including meny features like filtering, dynamic search etc.
 
 Feel free to explore each project's repository for more details!
 
