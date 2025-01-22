@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Muhammad Kashif Nabeel! 🚀</h1>
 <div align="center"> <img src="https://github.com/Kashif-CS6/Kashif-CS6/raw/main/assets/welcome.gif" alt="Welcome Animated Message"> </div>
-🌟 About Me
+<h3>🌟 About Me</h3>
 I'm a passionate Next.js Developer, Frontend Developer, and MERN Stack Developer with expertise in building dynamic and responsive web applications. I specialize in React.js, Next.js, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js).
 
 I enjoy transforming complex problems into simple, efficient, and scalable solutions. Whether it's building full-stack applications or optimizing user interfaces, I thrive in a collaborative and dynamic environment.
@@ -13,13 +13,13 @@ I enjoy transforming complex problems into simple, efficient, and scalable solut
 🚀 My Projects
 Here are some of my featured projects that demonstrate my skills:
 
-<h4><a href="https://todo-full-stack-application-mu.vercel.app/:">TodoList</a></h4> <br>
+<h4><a href="https://todo-full-stack-application-mu.vercel.app/">TodoList</a></h4> 
 A full-stack To-Do list app using React, Redux Toolkit, and Firebase for real-time data syncing. <br>
 
-<h4>Remember Well</h4> <br>
+<a href="https://remember-well-website.vercel.app/"><h4>Remember Well</h4> </a>
 A simple frontend project built with Next.js and Tailwind CSS, offering a seamless user experience. <br>
 
-<h4>University LMS</h4> <br>
+<a href="https://university-lms-beige.vercel.app/"><h4>University LMS</h4> </a>
 A Learning Management System (LMS) for universities, built with Next.js and Tailwind CSS, featuring dynamic search, pagination, and filtering. <br>
 
 Feel free to explore more of my repositories for detailed code and contributions! 🎉
