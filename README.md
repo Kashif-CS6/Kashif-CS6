@@ -1,4 +1,4 @@
-👋 Hello, I'm Muhammad Kashif Nabeel! 🚀
+<h1 align="center">👋 Hello, I'm Muhammad Kashif Nabeel! 🚀</h1>
 <div align="center"> <img src="https://github.com/Kashif-CS6/Kashif-CS6/raw/main/assets/welcome.gif" alt="Welcome Animated Message"> </div>
 🌟 About Me
 I'm a passionate Next.js Developer, Frontend Developer, and MERN Stack Developer with expertise in building dynamic and responsive web applications. I specialize in React.js, Next.js, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js).
@@ -38,10 +38,10 @@ Let's stay connected! You can reach out to me on:
 <div align="center"> <a href="https://www.linkedin.com/in/muhammad-kashif-nabeel-339b12298/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://twitter.com/iamKashifNabeel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter Badge"></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"></a> </div>
 I’m always open to collaboration, feedback, or just a friendly chat! 😄
 
-🤔 Fun Facts About Me
-🚀 I love working with JavaScript and building scalable apps.
-🎮 When I'm not coding, I'm exploring new tech trends or enjoying video games.
-📚 I enjoy learning new tools and technologies to expand my skill set.
-Thanks for visiting my GitHub profile! 🎉
+🤔 Fun Facts About Me <br>
+🚀 I love working with JavaScript and building scalable apps. <br>
+🎮 When I'm not coding, I'm exploring new tech trends or enjoying video games. <br>
+📚 I enjoy learning new tools and technologies to expand my skill set. <br>
+Thanks for visiting my GitHub profile! 🎉 <br>
 Keep coding, keep growing, and let’s make the web a better place! 💻🌍
 
