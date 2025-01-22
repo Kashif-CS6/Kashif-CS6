@@ -16,10 +16,10 @@ Here are some of my featured projects that demonstrate my skills:
 <h4><a href="https://todo-full-stack-application-mu.vercel.app/">TodoList</a></h4> 
 A full-stack To-Do list app using React, Redux Toolkit, and Firebase for real-time data syncing. <br>
 
-<a href="https://remember-well-website.vercel.app/"><h4>Remember Well</h4> </a>
+<h4><a href="https://remember-well-website.vercel.app/">Remember Well </a></h4>
 A simple frontend project built with Next.js and Tailwind CSS, offering a seamless user experience. <br>
 
-<a href="https://university-lms-beige.vercel.app/"><h4>University LMS</h4> </a>
+<h4><a href="https://university-lms-beige.vercel.app/">University LMS </a></h4>
 A Learning Management System (LMS) for universities, built with Next.js and Tailwind CSS, featuring dynamic search, pagination, and filtering. <br>
 
 Feel free to explore more of my repositories for detailed code and contributions! 🎉
