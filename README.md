@@ -5,7 +5,7 @@ I'm a passionate Next.js Developer, Frontend Developer, and MERN Stack Developer
 
 I enjoy transforming complex problems into simple, efficient, and scalable solutions. Whether it's building full-stack applications or optimizing user interfaces, I thrive in a collaborative and dynamic environment.
 
-🔧 Technologies & Tools I Work With:
+<h3>🔧 Technologies & Tools I Work With:</h3>
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,firebase&theme=dark" alt="Tech Stack Icons"> </div>
 
 
@@ -13,26 +13,27 @@ I enjoy transforming complex problems into simple, efficient, and scalable solut
 🚀 My Projects
 Here are some of my featured projects that demonstrate my skills:
 
-TodoList
-A full-stack To-Do list app using React, Redux Toolkit, and Firebase for real-time data syncing.
+<h4><a href="https://todo-full-stack-application-mu.vercel.app/:">TodoList</a></h4> <br>
+A full-stack To-Do list app using React, Redux Toolkit, and Firebase for real-time data syncing. <br>
 
-Remember Well
-A simple frontend project built with Next.js and Tailwind CSS, offering a seamless user experience.
+<h4>Remember Well</h4> <br>
+A simple frontend project built with Next.js and Tailwind CSS, offering a seamless user experience. <br>
 
-University LMS
-A Learning Management System (LMS) for universities, built with Next.js and Tailwind CSS, featuring dynamic search, pagination, and filtering.
+<h4>University LMS</h4> <br>
+A Learning Management System (LMS) for universities, built with Next.js and Tailwind CSS, featuring dynamic search, pagination, and filtering. <br>
 
 Feel free to explore more of my repositories for detailed code and contributions! 🎉
 
-📊 My GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif-CS6&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-CS6&layout=compact&theme=radical" alt="Top Languages" width="400"> </div>
-🔥 GitHub Streak
+<h3>📊 My GitHub Stats</h3>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif-CS6&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-CS6&layout=compact&theme=radical" alt="Top Languages" width="400"> </div> <br>
+<hr>
+<h3>🔥 GitHub Streak</h3>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashif-CS6&theme=radical" alt="GitHub Streak"> </p>
 📅 My Daily Coding Streak
 <div align="center"> <img src="https://github.com/Kashif-CS6/Kashif-CS6/raw/main/assets/streak-animation.gif" alt="Daily Streak Animation"> </div>
 I’m tracking my daily progress to maintain consistency and push my limits every day! 🎯
-
-🌐 Connect with Me
+<br>
+<h3>🌐 Connect with Me</h3>
 Let's stay connected! You can reach out to me on:
 
 <div align="center"> <a href="https://www.linkedin.com/in/muhammad-kashif-nabeel-339b12298/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://twitter.com/iamKashifNabeel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter Badge"></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"></a> </div>
