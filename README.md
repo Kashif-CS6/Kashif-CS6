@@ -13,8 +13,34 @@ I enjoy transforming complex problems into simple, efficient, and scalable solut
 🚀 My Projects
 Here are some of my featured projects that demonstrate my skills:
 
-<h4><a href="https://todo-full-stack-application-mu.vercel.app/">TodoList</a></h4> 
+## 💐 Perfumes E-commerce Application
+
+A full-stack e-commerce web application for buying and selling perfumes, built with the MERN stack.
+
+### 🛍️ User Features:
+- Add perfumes to cart
+- View detailed perfume information
+- Get recommended perfumes
+- Checkout and place orders
+- Contact sellers
+- View order confirmation and messages
+
+### 🛠️ Admin Features:
+- Add and delete products
+- View all sales records
+- View and respond to user messages
+- Create discount tokens for users
+
+### 🔗 Live Links:
+- [Frontend Repository](https://github.com/Kashif-CS6/frontend)
+- [Backend Repository](https://github.com/Kashif-CS6/backend)
+
+
+
+
+<h4><a href="https://github.com/Kashif-CS6/Todo-full-Stack-Application">TodoList</a></h4> 
 A full-stack To-Do list app using React, Redux Toolkit, and Firebase for real-time data syncing. <br>
+
 
 <h4><a href="https://remember-well-website.vercel.app/">Remember Well </a></h4>
 A simple frontend project built with Next.js and Tailwind CSS, offering a seamless user experience. <br>
