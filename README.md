@@ -36,6 +36,19 @@ A full-stack e-commerce web application for buying and selling perfumes, built w
 - [Backend Repository](https://github.com/Kashif-CS6/backend)
 
 
+### 🏨 [SL Groups — Hotel Management System](https://sl-groups.vercel.app/)
+A **frontend-only hotel management system** built with **Next.js** and **Tailwind CSS**, designed for modern and seamless hotel booking experiences.
+
+#### ✨ Features:
+- 🔐 Sign In / Sign Up (UI only)
+- 🏨 Browse and Book Hotels
+- 🧾 View Booked Hotels
+- 🔍 Hotel Filtering and Searching
+- 🛠️ Admin Dashboard with Charts and Analytics
+- 📞 Contact Page
+
+#### 🧩 Tech Stack:
+Next.js • Tailwind CSS • React Hooks • Chart.js • Modern UI Components
 
 
 <h4><a href="https://github.com/Kashif-CS6/Todo-full-Stack-Application">TodoList</a></h4> 
