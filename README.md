@@ -6,7 +6,7 @@ I'm a passionate Next.js Developer, Frontend Developer, and MERN Stack Developer
 I enjoy transforming complex problems into simple, efficient, and scalable solutions. Whether it's building full-stack applications or optimizing user interfaces, I thrive in a collaborative and dynamic environment.
 
 <h3>🔧 Technologies & Tools I Work With:</h3>
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,firebase&theme=dark" alt="Tech Stack Icons"> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,supabase,firebase,&theme=dark" alt="Tech Stack Icons"> </div>
 
 
 
