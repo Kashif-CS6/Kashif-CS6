@@ -72,6 +72,7 @@ Feel free to explore more of my repositories for detailed code and contributions
 <hr>
 <h3>🔥 GitHub Streak</h3>
 <p align="center"> <img src=https://github-readme-streak-stats.herokuapp.com/?user=Kashif-CS6&" alt="GitHub Streak"> </p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Kashif-CS6&" alt='Kashif-CS6'></p>
 📅 My Daily Coding Streak
 <div align="center"> <img src="https://github.com/Kashif-CS6/Kashif-CS6/raw/main/assets/streak-animation.gif" alt="Daily Streak Animation"> </div>
 I’m tracking my daily progress to maintain consistency and push my limits every day! 🎯
