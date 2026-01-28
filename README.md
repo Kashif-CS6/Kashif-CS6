@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=false&width=435&lines=Hi+M+Kashif+Nabeel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=false&width=435&lines=Muhammad+Kashif+Nabeel" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+MERN+Stack;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </h1>
 
