@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=false&width=435&lines=Hi+M+Kashif+Nabeel" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+MERN+Stack;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </h1>
-<!-- Welcome Mat Style -->
-<div align="center">
-  <img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" />
-</div>
-
 
 <h3>🌟 About Me</h3>
 I'm a passionate Next.js Developer, Frontend Developer, and MERN Stack Developer with expertise in building dynamic and responsive web applications. I specialize in React.js, Next.js, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js).
