@@ -67,7 +67,7 @@ Feel free to explore more of my repositories for detailed code and contributions
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif-CS6&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-CS6&layout=compact&theme=radical" alt="Top Languages" width="400"> </div> <br>
 <hr>
 <h3>🔥 GitHub Streak</h3>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashif-CS6&theme=radical" alt="GitHub Streak"> </p>
+<p align="center"> <img src=https://github-readme-streak-stats.herokuapp.com/?user=Kashif-CS6&" alt="GitHub Streak"> </p>
 📅 My Daily Coding Streak
 <div align="center"> <img src="https://github.com/Kashif-CS6/Kashif-CS6/raw/main/assets/streak-animation.gif" alt="Daily Streak Animation"> </div>
 I’m tracking my daily progress to maintain consistency and push my limits every day! 🎯
