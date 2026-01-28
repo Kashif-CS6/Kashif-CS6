@@ -64,7 +64,7 @@ A Learning Management System (LMS) for universities, built with Next.js and Tail
 Feel free to explore more of my repositories for detailed code and contributions! 🎉
 
 <h3>📊 My GitHub Stats</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif-CS6&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-CS6&layout=compact&theme=radical" alt="Top Languages" width="400"> </div> <br>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif-CS6&count_private=true&rank_icon=github&ring_color=ff8c00&title_color=000000&text_color=333333" alt="GitHub Stats" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-CS6&layout=compact&theme=radical" alt="Top Languages" width="400"> </div> <br>
 <hr>
 <h3>🔥 GitHub Streak</h3>
 <p align="center"> <img src=https://github-readme-streak-stats.herokuapp.com/?user=Kashif-CS6&" alt="GitHub Streak"> </p>
