@@ -7,7 +7,7 @@
 </h1>
 
 <h3>🌟 About Me</h3>
-I'am passionate Next.js Developer, Frontend Developer, and MERN Stack Developer with expertise in building dynamic and responsive web applications. I specialize in React.js, Next.js, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js).
+I'm a passionate Next.js Developer, Frontend Developer, and MERN Stack Developer with expertise in building dynamic and responsive web applications. I specialize in React.js, Next.js, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js).
 
 I enjoy transforming complex problems into simple, efficient, and scalable solutions. Whether it's building full-stack applications or optimizing user interfaces, I thrive in a collaborative and dynamic environment.
 
